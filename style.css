@@ -20,3 +20,8 @@ a {
   background-color: #41f181;
 }
 
+figcaption {
+  font-size: 24pt;
+  text-align: center;
+}
+
